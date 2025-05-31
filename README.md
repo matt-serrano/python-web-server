@@ -1,2 +1,2 @@
 # python-web-server
-This is a web server I created using python.
+This is a basic web server I created using python.
