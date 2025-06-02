@@ -1,2 +1,1 @@
-# python-web-server
-This is a basic web server I created using python.
+This is a lightweight HTTP server that I built in Python using raw TCP sockets, manually handling client connections, parsing HTTP GET requests, and constructing HTTP responses to simulate browser behavior without frameworks.
